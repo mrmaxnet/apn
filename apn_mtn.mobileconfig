@@ -11,7 +11,7 @@
     <key>PayloadUUID</key>
     <string>f9dbd18b-90ff-58c1-8605-5abae9c50691</string>
     <key>PayloadDisplayName</key>
-    <string>iOS構成プロファイル</string>
+    <string>Irancell IPv4/IPv6 RAYA</string>
     <key>PayloadDescription</key>
     <string>mobileconfig.azurewebsites.netにて生成された構成プロファイルです。</string>
     <key>PayloadContent</key>
