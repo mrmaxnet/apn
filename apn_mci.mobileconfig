@@ -7,11 +7,11 @@
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadIdentifier</key>
-    <string>MCI (RAYA)</string>
+    <string>MCI IPv4/IPv6 (RAYA)</string>
     <key>PayloadUUID</key>
     <string>f9dbd18b-90ff-58c1-8605-5abae9c50691</string>
     <key>PayloadDisplayName</key>
-    <string>MCI IPv4/IPv6 RAYA</string>
+    <string>MCI IPv4/IPv6 (RAYA)</string>
     <key>PayloadDescription</key>
     <string>mobileconfig.azurewebsites.netにて生成された構成プロファイルです。</string>
     <key>PayloadContent</key>
